@@ -1,0 +1,15 @@
+Cafe ambience / 喫茶店のざわめき
+
+Source: Cafe ambiance.ogg
+Author: Marble Toast
+Source page: https://commons.wikimedia.org/wiki/File:Cafe_ambiance.ogg
+Original file: https://upload.wikimedia.org/wikipedia/commons/5/54/Cafe_ambiance.ogg
+License: CC0 1.0 Universal
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+Game adaptation: 30–90 second excerpt, two-second equal-power loop crossfade,
+peak normalized to 0.6, low-pass filtered and resampled to 22,050 Hz PCM WAV.
+Playback is filtered and mixed quietly with the game's music.
+The bundled file is cafe-murmur.wav (58 seconds).
+
+All music, footstep sounds, waves, and rain are generated locally by YOHAKU.
